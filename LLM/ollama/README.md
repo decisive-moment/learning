@@ -1,4 +1,4 @@
-Learning Ollama
+*Learning Ollama*
 Purpose: A folder to keep notes and to maintain code for learning  Ollama
 # -----------------------------------------------------
 
