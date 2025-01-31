@@ -1,10 +1,11 @@
 # Learning Ollama
-Purpose: A folder to keep notes and to maintain code for learning  Ollama<br>
+
+Purpose: A folder to keep notes and to maintain code for learning  Ollama
 ---
 
-Author: Chaitanya Anand<br>
-Created: Jan 31, 2025<br>
-Last modified: Jan 31, 2025<br>
+Author: Chaitanya Anand
+Created: Jan 31, 2025
+Last modified: Jan 31, 2025
 ----
 
 ## What is Ollama?
